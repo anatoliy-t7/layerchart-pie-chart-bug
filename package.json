@@ -39,6 +39,7 @@
 		"vitest": "^3.0.0"
 	},
 	"dependencies": {
-		"layerchart": "^0.93.7"
+		"d3-shape": "^3.2.0",
+		"layerchart": "^0.99.5"
 	}
 }
